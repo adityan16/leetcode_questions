@@ -12,6 +12,6 @@ If you’re also practicing LeetCode, feel free to follow along, fork the repo, 
 Let’s grow together — it might be helpful for both of us! 🚀
 
 ### Nomenclature
-The file is named as:
-Question_Name_questionnumber.filetype
-(example: Two_Sum_1.py)
+The file is named as:.
+Question_Name_questionnumber.filetype.
+(example: Two_Sum_1.py).
